@@ -1,0 +1,43 @@
+[
+    {
+        "name":"iphone",
+        "price":"154",
+        "featured":false,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":"15400",
+        "featured":false,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":"1156",
+        "company":"apple"
+    },
+    {
+        "name":"cover",
+        "price":"1504",
+        "featured":false,
+        "company":"mi"
+    },
+    {
+        "name":"iphone se",
+        "price":"10050", 
+        "featured":false,
+        "company":"apple"
+    },
+    {
+        "name":"iphone se",
+        "price":"10000", 
+        "featured":false,
+        "company":"apple"
+    },
+    {
+        "name":"laptop",
+        "price":"400050",
+        "company":"dell"
+    }
+    
+]
